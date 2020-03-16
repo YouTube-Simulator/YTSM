@@ -13,7 +13,7 @@ With youtube simulator, you can:
   <li>And way more!</li>
 </ul>
 <br>
-
+ <strong>Over 1000 Servers!</strong>
 <h1>Commands</h1>
 <hr>
 <ul>
@@ -40,10 +40,6 @@ With youtube simulator, you can:
  <li>withdraw - Withdraw your money</li>
  <li>work - Work & earn</li>
 </ul>
-
-<img class="img-fluid" draggable="false" src="https://cdn.discordapp.com/attachments/682426216963112983/684612842078601238/Screen_Shot_2020-03-04_at_11.06.06_AM.png" alt="Video">
-<img class="img-fluid" draggable="false" src="https://cdn.discordapp.com/attachments/682426216963112983/684613007283978269/Screen_Shot_2020-03-04_at_11.07.23_AM.png" alt="Leaderboard">
-<br><br>
 
 <a href="https://top.gg/bot/681376963356524558" >
   <img src="https://top.gg/api/widget/681376963356524558.svg" alt="Youtube Simulator" />
